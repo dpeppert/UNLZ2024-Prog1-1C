@@ -15,17 +15,14 @@ int main () {
 	
 	while (ingresoAAcumular < cien ) { 
 //	     cout << "Ingrese una opcion por pantalla, el ciclo se detendra cuando iingrese un valor 00" << endl;
-		
-
-
-		cout << "Ingrese el valor a acumular: "<< endl;
+ 
+ 		cout << "Ingrese el valor a acumular: "<< endl;
 		cin>> ingresoPorTeclado; 
 		
 		ingresoAAcumular = ingresoAAcumular + ingresoPorTeclado;
 		
 		cout << "Llevo acumulados: " << ingresoAAcumular << endl; 
-		
-		
+				
 	}
 	
 	cout << "acumulado total:"<< acumulador << endl;
