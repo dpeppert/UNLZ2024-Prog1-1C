@@ -8,4 +8,17 @@ using namespace std;
 //y se repita hasta que ingrese la contrase√±a correcta.
 int main() { 
 
+string password = "atlantica";
+
+string valorIngresado = ""; 
+
+while (password != valorIngresado) { 
+	cout << "Ingrese una contraseÒa" << endl; 
+
+	cin >> valorIngresado;
+}
+
+return 0; 
+
+
 }

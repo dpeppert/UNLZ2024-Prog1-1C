@@ -8,4 +8,19 @@ using namespace std;
 //El ciclo while se repetirá hasta que el usuario adivine el número correcto
 int main() { 
 
+	int numeroAAdivinar = 45; 
+	
+	int valorIngresado = 0; 
+	
+	while (valorIngresado != numeroAAdivinar) {
+		cout << "Ingrese un numero" << endl;
+			
+			cin >> valorIngresado; 
+			
+	}
+	
+	return 0; 
+	
+	
+
 }
