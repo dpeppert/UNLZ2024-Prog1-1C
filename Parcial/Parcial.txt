@@ -1,1 +1,21 @@
-{\rtf1}
+/*
+   	
+	Teoría
+	- Defina con sus palabras el significado de Algoritmo
+	- Defina con sus palabras qué es una Variable  y qué diferencia tiene con una constante
+	- Defina con sus palabras el significado de Iteración, y qué ciclos utilizamos durante la cursada. 
+	- Explique la diferencia entre los ciclos "while" y "do-while" 
+	
+	Práctica
+	- Desarrollar un programa que le Solicite por teclado la carga de un array de 5 elementos, y ordenarlo. Mostrar el array ordenado de forma descendente. 
+
+	- Desarrollar un programa que le Solicite a un alumno que ingrese las notas obtenidas en su cuatrimestre. El programa debe mostrar: 
+		- El promedio de las notas ingresadas
+		- La cantidad de notas ingresadas
+		- El usuario puede ingresar una cantidad indefinida de notas 
+		- Los valores a tener en cuenta son aquellos que son del 1 al 10, el resto no deben ser considerados y debe mostrar un mensaje de error en caso de que la carga sea incorrecta. 
+
+	
+
+	
+*/
